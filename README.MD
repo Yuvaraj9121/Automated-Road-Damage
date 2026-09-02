@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/srohithadithya/Automated_road-damage.git
+   git clone https://github.com/Yuvaraj9121/Automated-Road-Damage.git
    cd Automated_road-damage
    ```
 
