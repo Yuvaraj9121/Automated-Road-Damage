@@ -1,0 +1,11 @@
+path: C:/Users/admin/Desktop/projects/Automated_Road-Damage-main/RoadDamage/yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: Block crack
+  1: D00
+  2: D10
+  3: D20
+  4: D40
+  5: Repair
