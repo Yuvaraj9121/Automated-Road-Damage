@@ -67,7 +67,7 @@ st.markdown(
 # -----------------------------
 @st.cache_resource
 def load_model():
-    return YOLO("../model/best.pt")
+    return YOLO("RoadDamage/model/best.pt")
 
 model = load_model()
 
