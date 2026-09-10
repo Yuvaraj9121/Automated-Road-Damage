@@ -1,1 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local datasets
 RoadDamage/RDD2022_China_Drone/images/
+RoadDamage/yolo_dataset/images/test/
+RoadDamage/yolo_dataset/labels/test/
+RoadDamage/yolo_dataset/labels/test.cache
+
+# Generated artifacts
+RoadDamage/artifacts/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
